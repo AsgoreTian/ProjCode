@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The Lucky Numers", "The Lucky Numers\The Lucky Numers.vcxproj", "{451A4497-81FF-4B86-BFC5-58889F389890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451A4497-81FF-4B86-BFC5-58889F389890}.Debug|Win32.ActiveCfg = Debug|Win32
+		{451A4497-81FF-4B86-BFC5-58889F389890}.Debug|Win32.Build.0 = Debug|Win32
+		{451A4497-81FF-4B86-BFC5-58889F389890}.Release|Win32.ActiveCfg = Release|Win32
+		{451A4497-81FF-4B86-BFC5-58889F389890}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
